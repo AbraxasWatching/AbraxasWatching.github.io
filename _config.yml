@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Wantching"
-  avatar           : "white.png"
+  avatar           : "pink.png"
   bio              : "Peking University"
   location         : "China Beijing"
   employer         :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "pkuhub-dev"
+  github           : "AbraxasWatching"
   google_plus      :
   keybase          :
   instagram        :
