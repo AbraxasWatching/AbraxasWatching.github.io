@@ -47,19 +47,19 @@ redirect_from:
     <br/><br/>
 </body>
 
-* Name: Your Name 
-* Phone and WeChat: 15705694836 / Email: [2200012917@stu.pku.edu.cn](2200012917@stu.pku.edu.cn)
-* Personal Website: [iculizhi.github.io](https://iculizhi.github.io/)
+* Name: Wantching 
+* Phone and WeChat: 18982852193 / Email: [2300012702@stu.pku.edu.cn](2300012702@stu.pku.edu.cn)
+* Personal Website: [AbraxasWatching.github.io](https://AbraxasWatching.github.io/)
 
 Education
 ======
-* Undergraduate: Beijing, Peking University, 2022
-  * Major: Information and Computing Science (Turing Class), School of Electronics Engineering and Computer Science
+* Undergraduate: Beijing, Peking University, 2023
+  * Major: Applied Physics , School of Electronics Engineering and Computer Science
   * Double Degree: Economics, National School of Development
 
 Awards
 ======
-* Silver Medal, China Mathematical Olympiad (CMO)
+* 
 
 <!--
 Work experience
