@@ -24,5 +24,5 @@ The website is still under construction. Codes and course notes are uploading qu
 <h2>Contact me</h2>
 
 
-[Email](mailto:2300012702@stu.pku.edu.cn) / [Github](https://github.com/AbraxasWantching) / [Wechat](../images/wechat.png) 
+[Email](mailto:2300012702@stu.pku.edu.cn) / [Github](https://github.com/AbraxasWatching) / [Wechat](../images/wechat.png) 
 
